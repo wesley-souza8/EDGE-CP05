@@ -80,4 +80,4 @@ Para um guia visual e mais detalhes sobre o projeto, assista ao vídeo explicati
 ### *Observação*
 
 
-*Para mais informações, acesse nosso [github](https://github.com/wesley-souza8/EDGE-CP04.git)*
+*Para mais informações, acesse nosso [github](https://github.com/wesley-souza8/EDGE-CP05.git)*
