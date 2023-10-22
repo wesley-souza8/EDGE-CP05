@@ -1,0 +1,49 @@
+[
+    {
+        "id": "18f56442b310e90d",
+        "type": "ui_gauge",
+        "z": "8aa491093bc276eb",
+        "name": "",
+        "group": "ee0f79a6a7980a8b",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Umidade",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#b30000",
+            "#00e604",
+            "#cb3a3a"
+        ],
+        "seg1": "15",
+        "seg2": "50",
+        "diff": false,
+        "className": "",
+        "x": 960,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "ee0f79a6a7980a8b",
+        "type": "ui_group",
+        "name": "Monitor",
+        "tab": "ac0218384750d8f3",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "ac0218384750d8f3",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
